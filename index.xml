@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SeLi Rahmenbau</title>
+    <link>http://www.seli-rahmenbau.de/</link>
+    <description>Recent content on SeLi Rahmenbau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 03 Oct 2018 21:49:03 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.seli-rahmenbau.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Datenschutz</title>
+      <link>http://www.seli-rahmenbau.de/datenschutz/</link>
+      <pubDate>Wed, 03 Oct 2018 21:49:03 +0200</pubDate>
+      
+      <guid>http://www.seli-rahmenbau.de/datenschutz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kurse</title>
+      <link>http://www.seli-rahmenbau.de/kurse/</link>
+      <pubDate>Wed, 03 Oct 2018 21:48:49 +0200</pubDate>
+      
+      <guid>http://www.seli-rahmenbau.de/kurse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rahmenbau</title>
+      <link>http://www.seli-rahmenbau.de/rahmenbau/</link>
+      <pubDate>Wed, 03 Oct 2018 21:47:45 +0200</pubDate>
+      
+      <guid>http://www.seli-rahmenbau.de/rahmenbau/</guid>
+      <description> hier wird der rahmen gebaut </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.seli-rahmenbau.de/datenschutz/</loc>
+    <lastmod>2018-10-03T21:49:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.seli-rahmenbau.de/kurse/</loc>
+    <lastmod>2018-10-03T21:48:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.seli-rahmenbau.de/rahmenbau/</loc>
+    <lastmod>2018-10-03T21:47:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.seli-rahmenbau.de/authors/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.seli-rahmenbau.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.seli-rahmenbau.de/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.seli-rahmenbau.de/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.seli-rahmenbau.de/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.seli-rahmenbau.de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.seli-rahmenbau.de/</loc>
+    <lastmod>2018-10-03T21:49:03+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.seli-rahmenbau.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.seli-rahmenbau.de/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.seli-rahmenbau.de/series/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.seli-rahmenbau.de/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.seli-rahmenbau.de/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.seli-rahmenbau.de/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.seli-rahmenbau.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.seli-rahmenbau.de/tags/"
+                />
+  </url>
+  
+</urlset>
