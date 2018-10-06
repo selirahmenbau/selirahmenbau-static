@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SeLi Rahmenbau</title>
-    <link>http://www.seli-rahmenbau.de/</link>
+    <link>https://selirahmenbau.github.io/</link>
     <description>Recent content on SeLi Rahmenbau</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 03 Oct 2018 21:49:03 +0200</lastBuildDate>
     
-	<atom:link href="http://www.seli-rahmenbau.de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://selirahmenbau.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Datenschutz</title>
-      <link>http://www.seli-rahmenbau.de/datenschutz/</link>
+      <link>https://selirahmenbau.github.io/datenschutz/</link>
       <pubDate>Wed, 03 Oct 2018 21:49:03 +0200</pubDate>
       
-      <guid>http://www.seli-rahmenbau.de/datenschutz/</guid>
+      <guid>https://selirahmenbau.github.io/datenschutz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impressum</title>
-      <link>http://www.seli-rahmenbau.de/impressum/</link>
+      <link>https://selirahmenbau.github.io/impressum/</link>
       <pubDate>Wed, 03 Oct 2018 21:48:56 +0200</pubDate>
       
-      <guid>http://www.seli-rahmenbau.de/impressum/</guid>
+      <guid>https://selirahmenbau.github.io/impressum/</guid>
       <description>Anschrift:
 Sebastian Lindler
 In der Zeil 24
@@ -42,10 +42,10 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
     
     <item>
       <title>Kurse</title>
-      <link>http://www.seli-rahmenbau.de/kurse/</link>
+      <link>https://selirahmenbau.github.io/kurse/</link>
       <pubDate>Wed, 03 Oct 2018 21:48:49 +0200</pubDate>
       
-      <guid>http://www.seli-rahmenbau.de/kurse/</guid>
+      <guid>https://selirahmenbau.github.io/kurse/</guid>
       <description></description>
     </item>
     
