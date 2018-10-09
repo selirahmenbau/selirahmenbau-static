@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SeLi Rahmenbau</title>
-    <link>https://vorschau.seli-rahmenbau.de/</link>
+    <link>https://seli-rahmenbau.de/</link>
     <description>Recent content on SeLi Rahmenbau</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>seli-online@gmx.de (Sebastian Lindler)</managingEditor>
     <webMaster>seli-online@gmx.de (Sebastian Lindler)</webMaster>
     <lastBuildDate>Wed, 03 Oct 2018 21:49:03 +0200</lastBuildDate>
     
-	<atom:link href="https://vorschau.seli-rahmenbau.de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seli-rahmenbau.de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Datenschutzerklärung</title>
-      <link>https://vorschau.seli-rahmenbau.de/page/datenschutz/</link>
+      <link>https://seli-rahmenbau.de/page/datenschutz/</link>
       <pubDate>Wed, 03 Oct 2018 21:49:03 +0200</pubDate>
       <author>seli-online@gmx.de (Sebastian Lindler)</author>
-      <guid>https://vorschau.seli-rahmenbau.de/page/datenschutz/</guid>
+      <guid>https://seli-rahmenbau.de/page/datenschutz/</guid>
       <description>Personenbezogene Daten (nachfolgend zumeist nur „Daten“ genannt) werden von uns nur im Rahmen der Erforderlichkeit sowie zum Zwecke der Bereitstellung eines funktionsfähigen und nutzerfreundlichen Internetauftritts, inklusive seiner Inhalte und der dort angebotenen Leistungen, verarbeitet.
 Gemäß Art. 4 Ziffer 1. der Verordnung (EU) 2016&amp;frasl;679, also der Datenschutz-Grundverordnung (nachfolgend nur „DSGVO“ genannt), gilt als „Verarbeitung“ jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführter Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten, wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung.</description>
     </item>
     
     <item>
       <title>Impressum</title>
-      <link>https://vorschau.seli-rahmenbau.de/page/impressum/</link>
+      <link>https://seli-rahmenbau.de/page/impressum/</link>
       <pubDate>Wed, 03 Oct 2018 21:48:56 +0200</pubDate>
       <author>seli-online@gmx.de (Sebastian Lindler)</author>
-      <guid>https://vorschau.seli-rahmenbau.de/page/impressum/</guid>
+      <guid>https://seli-rahmenbau.de/page/impressum/</guid>
       <description>Anschrift:
 Sebastian Lindler
 In der Zeil 24
@@ -45,10 +45,10 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
     
     <item>
       <title>Kurse</title>
-      <link>https://vorschau.seli-rahmenbau.de/page/kurse/</link>
+      <link>https://seli-rahmenbau.de/page/kurse/</link>
       <pubDate>Wed, 03 Oct 2018 21:48:49 +0200</pubDate>
       <author>seli-online@gmx.de (Sebastian Lindler)</author>
-      <guid>https://vorschau.seli-rahmenbau.de/page/kurse/</guid>
+      <guid>https://seli-rahmenbau.de/page/kurse/</guid>
       <description></description>
     </item>
     
